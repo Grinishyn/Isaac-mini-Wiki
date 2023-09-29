@@ -1,0 +1,5 @@
+.title{
+    -webkit-text-stroke-color: black;
+    color: rgb(187, 7, 7);
+    text-shadow: 4px 4px 2px black;
+}

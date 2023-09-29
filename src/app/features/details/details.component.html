@@ -1,0 +1,15 @@
+<div class="flex-centered">
+    <app-loading-screen *ngIf="isLoading"></app-loading-screen>
+    <div class="flex-centered details-container flex-d-col">
+        <div class="title item-detail-title d-flex">{{item.name}}</div>
+        <div class="d-flex info-img-details flex-centered">
+            <div class="info-container">
+                <div>Id: {{item.id}}</div>
+                <div>Type: {{item.type}}</div>
+                <div>Quote: {{item.quote}}</div>
+                <div>Description: {{item.description}}</div>
+            </div>
+            <img [src]="imgPath + item.bigImg" alt="" class="big-img bord-shad-rad">
+        </div>
+    </div>
+</div>

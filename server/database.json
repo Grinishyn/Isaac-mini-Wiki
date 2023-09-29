@@ -1,0 +1,59 @@
+{
+    "items":[
+        {
+            "id": "1",
+            "name": "The Sad Onion",
+            "type": "passive",
+            "quote": "Tears up",
+            "description": "Increases tears by 0.7.",
+            "img": "theSadOnion.png",
+            "bigImg": "bigTheSadOnion.png"
+        },
+        {
+            "id": "2",
+            "name": "The Inner Eye",
+            "type": "passive",
+            "quote": "Triple shot",
+            "description": "Grants triple shot but decreases tears.",
+            "img": "theInnerEye.png",
+            "bigImg": "bigTheInnerEye.png"
+        },
+        {
+            "id": "3",
+            "name": "Spoon Bender",
+            "type": "passive",
+            "quote": "Homing shots",
+            "description": "Grants Isaac homing tears.",
+            "img": "spoonBender.png",
+            "bigImg": "bigSpoonBender.png"
+        },
+        {
+            "id": "4",
+            "name": "Cricket's Head",
+            "type": "passive",
+            "quote": "DMG up",
+            "description": "Increases Damage by 0.5, and increases damage multiplier by x1.5.",
+            "img": "cricketsHead.png",
+            "bigImg": "bigCricketsHead.png"
+        },
+        {
+            "id": "5",
+            "name": "My Reflection",
+            "type": "passive",
+            "quote": "Boomerang tears + DMG up + luck down",
+            "description": "Gives Isaac's tears a boomerang effect. (except in Repentance) +1.5 range, +1 tear falling speed, x1.6 shot speed multiplier. (in Repentance) 2x + 1.5 range, +1.5 damage, -1 luck, 1.6x shot speed multiplier.",
+            "img": "myReflection.png",
+            "bigImg": "bigMyReflection.png"
+        },
+        {
+            "id": "33",
+            "name": "The Bible",
+            "type": "active",
+            "charges": 4,
+            "quote": "Temporary flight",
+            "description": "On use, Isaac gains flight for the current room. Instantly kills Mom, Mom's Heart, and It Lives when activated, but kills Isaac when used on Satan.",
+            "img": "theBible.png",
+            "bigImg": "bigBible.png"
+        }
+    ]
+}

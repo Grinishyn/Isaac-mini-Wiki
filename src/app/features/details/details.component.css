@@ -1,0 +1,22 @@
+.details-container{
+    width: 100%;
+}
+
+.big-img{
+    height: 40vh; 
+    max-width: fit-content;
+}
+.info-container div{
+margin-top: 15px;
+}
+.item-detail-title{
+    margin-bottom: 34px;
+    font-size: 24px;
+    -webkit-text-stroke-width: 1px;
+}
+.info-img-details{
+    gap: 18px;
+}
+.info-container{
+    width: 30%;
+}

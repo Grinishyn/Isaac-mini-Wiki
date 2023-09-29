@@ -1,0 +1,15 @@
+.navigation{
+    padding-top: 28px;
+}
+.bigger{
+    -webkit-text-stroke-width: 2px;
+    font-size: 50px;
+}
+.smaller{
+    -webkit-text-stroke-width: 1px;
+    font-size: 24px;
+    margin-top: -28px;
+}
+.nav-option{
+    font-size: 20px;
+}

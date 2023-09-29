@@ -1,0 +1,13 @@
+<div class="flex-centered flex-d-col">
+  <div class="title items-title">List of Items</div>
+  <app-loading-screen *ngIf="isLoading"></app-loading-screen>
+  <div class="items-container flex-centered">
+    <a *ngFor="let item of items" [routerLink]="'/details/' + item.id" class="item-box">
+        <app-item-box
+        [itemId]="item.id"
+        [itemImg]="item.img"
+        [itemName]="item.name"
+        ></app-item-box>
+    </a>
+  </div>
+</div>

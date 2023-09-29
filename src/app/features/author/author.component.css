@@ -1,0 +1,14 @@
+.author-txt-img{
+    margin-top: 20px;
+}
+.author-title{
+    font-size: 30px;
+    -webkit-text-stroke-width: 1px;
+}
+.author-txt{
+    width: 30%;
+    margin-left: 20px;
+}
+.img-info-div{
+    height: 100%;
+}

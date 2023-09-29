@@ -1,0 +1,12 @@
+.app-container{
+    background-image: url("../assets/background.png");
+    background-position: center; 
+    background-size:cover;
+    height: 100vh;
+    font-family: isaacFont;
+}
+
+@font-face {
+    font-family: isaacFont;
+    src: url("../assets/upheavtt.ttf");
+}

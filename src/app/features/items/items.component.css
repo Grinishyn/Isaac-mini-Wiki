@@ -1,0 +1,19 @@
+a{
+    text-decoration: none;
+}
+.items-title{
+    font-size: 30px;
+    -webkit-text-stroke-width: 1px;
+}
+.items-container{
+    flex-wrap: wrap;
+    padding-top: 20px;
+}
+.item-box{
+    width: 40%;
+    margin: 10px 20px;
+}
+.img-name{
+    display: flex;
+    justify-content: center;
+}
